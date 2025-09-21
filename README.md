@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ResumeAI – Smart Resume Filtering System
 📌 Overview
 
@@ -88,3 +89,7 @@ Author 2:-
 Name :- Shivaraj Dindure
 Education :- Pursuing B.tech in Information Science (Dayanand sagar college of engineering)
 gmail:-shivarajhdindure@gmail.com
+=======
+# Automated-Resume-filtering-system
+ResumeAI is an AI-powered resume filtering system that helps recruiters and companies quickly shortlist candidates for different job roles. It supports PDF, DOCX, and TXT resumes, extracts relevant details, and scores them against predefined job descriptions using semantic similarity, skills extraction, keyword matching, and experience analysis.
+>>>>>>> d98034d5247b51ff352824507657d95244eec18b
